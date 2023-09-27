@@ -1,0 +1,11 @@
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\bin\Debug\BenzinOtomasyonuProje.exe.config
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\bin\Debug\BenzinOtomasyonuProje.exe
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\bin\Debug\BenzinOtomasyonuProje.pdb
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.csproj.AssemblyReference.cache
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.Form1.resources
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.Properties.Resources.resources
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.csproj.GenerateResource.cache
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.exe
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.pdb
+C:\Users\karab\source\repos\BenzinOtomasyonuProje\BenzinOtomasyonuProje\obj\Debug\BenzinOtomasyonuProje.GirisEkrani.resources
